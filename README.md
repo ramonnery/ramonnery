@@ -1,7 +1,7 @@
-### Olá! Chamo-me Ramon Nery
+### Olá, me chamo Ramon Nery!
 
-- 🔭 Atualmente estou procurando uma primeira oportunidade como dev front-end
-- 🌱 Estudando React
+- 🔭 Atualmente estou procurando uma primeira oportunidade em Análise/Ciência de Dados
+- 🌱 Aprendendo: Numpy, Pandas, SQL, Matplotlib, Seaborn e Estatística
 - 📫 Contate-me no e-email: ramonnery2020@gmail.com
 
 <div align="center">
@@ -10,11 +10,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonnery&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <i class="devicon-pandas-original-wordmark"></i>
+          
+          
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/940d9f01e307a88f7da4c4709d4320f6.gif">
 </div>
 
