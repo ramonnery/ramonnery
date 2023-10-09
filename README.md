@@ -11,11 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <i class="devicon-pandas-original-wordmark"></i>
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/940d9f01e307a88f7da4c4709d4320f6.gif">
 </div>
 
