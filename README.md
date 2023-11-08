@@ -1,6 +1,6 @@
 ### Olá, me chamo Ramon Nery!
 
-- 🔭 Atualmente estou procurando uma primeira oportunidade em Análise/Ciência de Dados
+- 🔭 Atualmente estou procurando uma primeira oportunidade em Análise de Dados ou Programação
 - 🌱 Aprendendo: Numpy, Pandas, SQL, Matplotlib, Seaborn e Estatística
 - 📫 Contate-me no e-email: ramonnery2020@gmail.com
 
