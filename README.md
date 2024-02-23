@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Programador Full Stack<br>👯 Estou a procura de um oportunidade de Júnior ou Estagiário<br>🌱 Aprendendo React, Node.js e SQL<br>📫 Contate-me no e-email: ramonnery2020@gmail.com<br>
+🔭 Programador Full Stack<br>👯 Estou a procura de um oportunidade de Júnior ou Estagiário<br>🌱 Aprendendo React, Node.js e SQL<br>📫 Contate-me no e-email: ramoncorreia.dev@gmail.com<br>
 
 
 ## 🌐 Socials:
